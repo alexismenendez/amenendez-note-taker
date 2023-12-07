@@ -7,7 +7,8 @@ This project aims to create a website that can write, store, and delete notes cr
 Click get started to open the notes page. Type in a title and content for your note. When you press save note, it will save your note to the left where it can then be retrieved for later viewing. If you want to clear out an in progress note, click clear form to delete all text in the fields.
 
 ## Code Source
-[Repository](https://github.com/alexismenendez/amenendez-note-taker)
+[Repository](https://github.com/alexismenendez/amenendez-note-taker)<br>
+[Website Link](https://amenendez-note-taker-7af60c49ebeb.herokuapp.com/)
 
 ## Resources & Assets
 **Front end code provided by EdX*<br>
